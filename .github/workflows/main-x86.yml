@@ -68,6 +68,6 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            soohyunme/mlops-recipe_x86:v1
-            ghcr.io/protossdragoon/mlops-recipe_x86:v1
+            yopbi/mlops-recipe_x86:v1
+            ghcr.io/soohyunme/mlops-recipe_x86:v1
             552876990947.dkr.ecr.ap-northeast-2.amazonaws.com/mlops-recipe_x86:v1
